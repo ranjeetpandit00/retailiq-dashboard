@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/ranjeetpandit00/retailiq-dashboard/releases/download/v1.0.0/RetailDashboard.Setup.1.1.0.exe",
+  "version": "1.1.5",
+  "url": "https://github.com/ranjeetpandit00/retailiq-dashboard/releases/download/v1.0.0/RetailDashboard.Setup.1.1.5.exe",
   "notes": "Initial Release - SQL Server Integration, Excel Import, Dashboard Analytics, Sales Reporting, Product Analysis, Auto Update Support",
-  "pub_date": "2026-05-30T12:00:00Z"
+  "pub_date": "2026-06-07T12:00:00Z"
 }
